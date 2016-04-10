@@ -1,4 +1,4 @@
-package com.NodeBucket.util;
+package com.NoteBucket.util;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

@@ -4,6 +4,6 @@
     <title>  noteBucket </title>
 </head>
 <body>
-    atz2
+    ${message}
 </body>
 </html>
